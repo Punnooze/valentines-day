@@ -49,7 +49,7 @@ export const EnvelopeCard = ({ day, title, onOpen }: EnvelopeCardProps) => {
 
       {showToast && (
         <div className="fixed bottom-8 left-1/2 transform -translate-x-1/2 bg-gray-800 text-white px-6 py-3 rounded-full shadow-lg z-50">
-          Not yet 💕 Come back tomorrow.
+          Not yet! 💕
         </div>
       )}
     </>

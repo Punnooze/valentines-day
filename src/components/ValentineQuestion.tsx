@@ -50,7 +50,7 @@ export const ValentineQuestion = ({ onYes }: ValentineQuestionProps) => {
     <div className="min-h-screen bg-gradient-to-br from-pink-100 via-rose-100 to-red-100 flex items-center justify-center p-6">
       <div className="text-center space-y-12 max-w-md">
         <h1 className="text-4xl font-light text-gray-800">
-          Will you be my Valentine? 💘
+          Will you be my Valentine? 🩷
         </h1>
         
         <div className="space-y-4">
@@ -77,7 +77,7 @@ export const ValentineQuestion = ({ onYes }: ValentineQuestionProps) => {
 
       {showToast && (
         <div className="fixed bottom-8 left-1/2 transform -translate-x-1/2 bg-gray-800 text-white px-6 py-3 rounded-full shadow-lg">
-          Nice try 😏
+          Excuse mee! Nice try
         </div>
       )}
     </div>

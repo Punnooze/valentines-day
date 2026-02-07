@@ -14,8 +14,8 @@ export const Intro = ({ onContinue }: IntroProps) => {
     <div className="min-h-screen bg-gradient-to-br from-pink-100 via-rose-100 to-red-100 flex items-center justify-center p-6">
       <div className="text-center space-y-8 max-w-md">
         <div className="space-y-4">
-          <p className="text-3xl font-light text-gray-800">Hey you.</p>
-          <p className="text-2xl font-light text-gray-700">I made this just for you.</p>
+          <p className="text-3xl font-light text-gray-800">Hey babe!</p>
+          <p className="text-2xl font-light text-gray-700">So, I wanted to do something for you</p>
         </div>
         
         <button

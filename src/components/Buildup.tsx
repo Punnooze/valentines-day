@@ -7,7 +7,7 @@ interface BuildupProps {
 
 const messages = [
   "Being far from you isn't easy.",
-  "But loving you is.",
+  "But loving you is💕",
   "So I wanted to ask you something..."
 ];
 

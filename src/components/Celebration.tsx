@@ -5,9 +5,9 @@ interface CelebrationProps {
 }
 
 const messages = [
-  "YAY 🥹",
+  "YAY 🥹🩷",
   "You just made me really happy.",
-  "I wish I could be there with you.",
+  "I cant wait to see you",
   "But until then..."
 ];
 
