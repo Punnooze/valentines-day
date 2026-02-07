@@ -77,7 +77,7 @@ export const ValentineQuestion = ({ onYes }: ValentineQuestionProps) => {
 
       {showToast && (
         <div className="fixed bottom-8 left-1/2 transform -translate-x-1/2 bg-gray-800 text-white px-6 py-3 rounded-full shadow-lg w-[200px]">
-          Excuse mee! Nice try
+          Nice try Diddy 😏
         </div>
       )}
     </div>

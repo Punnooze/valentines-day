@@ -39,7 +39,11 @@ export const EnvelopeCard = ({ day, title, onOpen }: EnvelopeCardProps) => {
         <div className="flex items-center justify-between">
           <div className="flex-1">
             <div className="text-sm text-gray-500 mb-1">Day {day}</div>
-            <div className="text-lg font-medium text-gray-800">{title}</div>
+            {unlocked ? (
+              <div className="text-lg font-medium text-gray-800">{title}</div>
+            ) : (
+              <div className="text-lg font-medium text-gray-400">???</div>
+            )}
           </div>
           <div className="text-4xl">
             {unlocked ? '💌' : '🔒'}

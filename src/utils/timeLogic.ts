@@ -1,5 +1,5 @@
 // Set your start date here (YYYY-MM-DD format)
-export const START_DATE = new Date('2026-02-07');
+export const START_DATE = new Date('2026-02-08');
 
 export const isEnvelopeUnlocked = (dayIndex: number): boolean => {
   const today = new Date();
