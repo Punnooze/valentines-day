@@ -53,6 +53,10 @@ export const ValentineQuestion = ({ onYes }: ValentineQuestionProps) => {
           Will you be my Valentine? 🩷
         </h1>
         
+        <p className="text-sm text-gray-500 ">
+          (<span className='italic'>Go ahead, try clicking "No"</span> 😏)
+        </p>
+        
         <div className="space-y-4">
           <button
             onClick={handleYes}
