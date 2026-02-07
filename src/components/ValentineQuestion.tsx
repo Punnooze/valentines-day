@@ -54,7 +54,7 @@ export const ValentineQuestion = ({ onYes }: ValentineQuestionProps) => {
         </h1>
         
         <p className="text-sm text-gray-500 ">
-          (<span className='italic'>Go ahead, try clicking "No"</span> 😏)
+          (Go ahead, try clicking "No"😏)
         </p>
         
         <div className="space-y-4">
