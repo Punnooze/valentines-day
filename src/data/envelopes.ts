@@ -14,9 +14,10 @@ I love you and im so happy you are in my life🩷`
   {
     day: 2,
     title: "What I love about you day ",
-    content: `Ah. Theres just so many things that i cant even list down. But ill try mentioning a few. I love how you have your opinions on things and you stick to regardless of who says what. Im so proud of you for it and i respect you for it. I love how strong you are. Well things are not exactly smooth at home. Uve had some bad experiences but you fought through all of them. No one has to go through all this. But you are handling it pretty good and im so proud of you for it. I love how you are ready to listen. Sometimes im just spinning out and im stuck in my head and you are ready to listen. We have fights. And you were ready to hear me out even when i messed up. I love how hard working and genuine you are. If you do something you actually put your heart and soul into it and its such a respectable quality. Again. There are so many more thingsss. 
+    content: `Ah. Theres just so many things that i cant even list down. But ill try mentioning a few. I love how you have your opinions on things and you stick to it regardless of who says what. Im so proud of you for it and i respect you for it. I love how strong you are. Well things are not exactly smooth at home. Uve had some bad experiences but you fought through all of them. No one has to go through all this. But you are handling it so well and im so proud of you for it. I love how you are ready to listen. Sometimes im just spinning out and im stuck in my head and you are ready to listen. We have fights. And you were ready to hear me out even when i messed up. I love how hard working and genuine you are. If you do something you actually put your heart and soul into it and its such a respectable quality. I love how you appreciate the little things. And i love ur taste in fashion and music. Its so good and im glad a bit of it is rubbing off on me. I love everything about you. The person you are. I love you on your bad days.
+      Again. There are so many more thingsss. 
 
-I love every single thing about you 🩷
+I love you on your good days and i love you even more on your bad days. And im not going to stop loving you. 🩷
 `
   },
   {
