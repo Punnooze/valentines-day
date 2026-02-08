@@ -2,25 +2,23 @@
 export const START_DATE = new Date('2026-02-08');
 
 export const isEnvelopeUnlocked = (dayIndex: number): boolean => {
-  const today = new Date();
-  today.setHours(0, 0, 0, 0);
+  const now = new Date();
   
   const unlockDate = new Date(START_DATE);
   unlockDate.setDate(unlockDate.getDate() + (dayIndex - 1));
-  unlockDate.setHours(0, 0, 0, 0);
+  unlockDate.setHours(6, 0, 0, 0); // Unlock at 6 AM
   
-  return today >= unlockDate;
+  return now >= unlockDate;
 };
 
 export const getDaysUntilUnlock = (dayIndex: number): number => {
-  const today = new Date();
-  today.setHours(0, 0, 0, 0);
+  const now = new Date();
   
   const unlockDate = new Date(START_DATE);
   unlockDate.setDate(unlockDate.getDate() + (dayIndex - 1));
-  unlockDate.setHours(0, 0, 0, 0);
+  unlockDate.setHours(6, 0, 0, 0); // Unlock at 6 AM
   
-  const diffTime = unlockDate.getTime() - today.getTime();
+  const diffTime = unlockDate.getTime() - now.getTime();
   const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24));
   
   return diffDays;
