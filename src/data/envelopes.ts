@@ -22,12 +22,10 @@ I love you on your good days and i love you even more on your bad days. And im n
   },
   {
     day: 3,
-    title: "A memory",
-    content: `Remember that time we stayed up all night just talking?
+    title: "A Memory Day",
+    content: `There are so many moments that i keep thinking of. Most are funny and make me laugh. Some make me miss you. Some make me feel loved. So i just wanted to pick some of my favourite memories. Our first date is obviously on the list. I was SO nervous. New place. New people. Just to meet a girl I’ve never met before. Someone i cared about deeply. I remember waiting in front of your hostel with a bunch of Lillies in my hand. Sweating SO MUCH. And then i saw you walking down. In bibtya. And man. Uff. Gone. We went to have lunch and i couldn’t stop staring at you. We have been dating for almost 7 months but every single time i see you i am just so amazed. I just want to sit and stare. Last time we met. And we were sleeping. It just felt like home. It just felt right. I can’t explain how good it felt to sleep next to you. Babee. Literally every single memory is so special. Every second with you is so special. That time i asked you to be my girlfriend. Standing outside of polar bear in the midfield of the night. Asking you to be my girlfriend even though we hadmt even  met you have. God there are so many good memories and i am so glad you are in my life. The thought of you whistling at a rat keeps popping up in my head randomly ahhh its one of my favourite memories in life. So many precious moments. Me buying minis for you. Crying together in airports
 
-We were both so tired the next day, but I wouldn't trade that moment for anything. Those conversations, those laughs, those quiet moments... they're what I hold onto when I miss you.
-
-I can't wait to make a million more memories with you. 🌙✨`
+I love you and i can’t wait to make more and more memories together🩷`
   },
   {
     day: 4,
