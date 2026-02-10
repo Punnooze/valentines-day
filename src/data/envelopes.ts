@@ -23,61 +23,28 @@ I love you on your good days and i love you even more on your bad days. And im n
   {
     day: 3,
     title: "A Memory Day",
-    content: `There are so many moments that i keep thinking of. Most are funny and make me laugh. Some make me miss you. Some make me feel loved. So i just wanted to pick some of my favourite memories. Our first date is obviously on the list. I was SO nervous. New place. New people. Just to meet a girl I’ve never met before. Someone i cared about deeply. I remember waiting in front of your hostel with a bunch of Lillies in my hand. Sweating SO MUCH. And then i saw you walking down. In bibtya. And man. Uff. Gone. We went to have lunch and i couldn’t stop staring at you. We have been dating for almost 7 months but every single time i see you i am just so amazed. I just want to sit and stare. Last time we met. And we were sleeping. It just felt like home. It just felt right. I can’t explain how good it felt to sleep next to you. Babee. Literally every single memory is so special. Every second with you is so special. That time i asked you to be my girlfriend. Standing outside of polar bear in the midfield of the night. Asking you to be my girlfriend even though we hadmt even  met you have. God there are so many good memories and i am so glad you are in my life. The thought of you whistling at a rat keeps popping up in my head randomly ahhh its one of my favourite memories in life. So many precious moments. Me buying minis for you. Crying together in airports
-
-I love you and i can’t wait to make more and more memories together🩷`
+    content: `There are so many moments that i keep thinking of. Most are funny and make me laugh. Some make me miss you. Some make me feel loved. So i just wanted to pick some of my favourite memories. Our first date is obviously on the list. I was SO nervous. New place. New people. Just to meet a girl I’ve never met before. Someone i cared about deeply. I remember waiting in front of your hostel with a bunch of Lillies in my hand. Sweating SO MUCH. And then i saw you walking down. In bibtya. And man. Uff. Gone. We went to have lunch and i couldn’t stop staring at you. We have been dating for almost 7 months but every single time i see you i am just so amazed. I just want to sit and stare. Last time we met. And we were sleeping. It just felt like home. It just felt right. I can’t explain how good it felt to sleep next to you. Babee. Literally every single memory is so special. Every second with you is so special. That time i asked you to be my girlfriend. Standing outside of polar bear in the midfield of the night. Asking you to be my girlfriend even though we hadn’t even  met each other. God there are so many good memories and i am so glad you are in my life. The thought of you whistling at a rat keeps popping up in my head randomly ahhh its one of my favourite memories in life. So many precious moments. Me buying momos for you. Crying together in airport. Staying up till 4 am doomscrolling and then regretting it the next day but only to do it again. 
+    
+  I love you and i can’t wait to make more and more memories together. 🩷`
   },
   {
     day: 4,
-    title: "Something funny",
-    content: `Okay, so I was thinking...
-
-When we're finally together again, I'm not letting you go. Like literally. I'm going to hug you for at least 3 hours straight.
-
-You've been warned. 😂
-
-(But seriously, prepare for the longest hug of your life) 🤗`
+    title: "",
+    content: ``
   },
   {
     day: 5,
-    title: "A song",
-    content: `This song makes me think of you every single time:
-
-🎵 "Can't Help Falling in Love" - Elvis Presley
-
-"Wise men say, only fools rush in
-But I can't help falling in love with you..."
-
-Listen to it and think of me. Because I'm definitely thinking of you. 🎶💕`
+    title: "",
+    content: ``
   },
   {
     day: 6,
-    title: "A promise",
-    content: `I promise you this:
-
-No matter how far apart we are, no matter how hard it gets, I'm not going anywhere.
-
-You're stuck with me. 😊
-
-I promise to love you on your good days and your bad days. When you're happy and when you're sad. When we're together and when we're apart.
-
-Always. 💍`
+    title: "",
+    content: ``
   },
   {
     day: 7,
-    title: "For you ❤️",
-    content: `Seven days. Seven letters. But infinite love.
-
-Thank you for being you. Thank you for being mine. Thank you for making this long-distance thing worth every single second.
-
-I can't wait for the day when we don't have to say goodbye anymore.
-
-Until then, know that you have my whole heart. Always and forever.
-
-I love you more than words can say.
-
-Yours, always. ❤️
-
-P.S. - You really are my Valentine, you know. Today and every day. 💘`
+    title: "",
+    content: ``
   }
 ];
