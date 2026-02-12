@@ -44,12 +44,16 @@ I love you and i miss you so much but i would choose this without a doubt. 🩷`
   },
   {
     day: 6,
-    title: "",
-    content: ``
+    title: "I Promise…",
+    content: `Idk whats going to happen in the future. Its a lot of uncertainty. But we have been surviving 7 months of ldr pretty decent. Sooo i promise to always come to you rather than getting stuck in my head. I promise that ill listen to you rant about anything under the sun. I promise to listen to you while you geek out on things. I promise to listen to all the songs you suggest. I promise to cook for you in the middle of the night when we live together and you get hungry. I promise to fight for us. I promise to be the best boyfriend i can be. I promise to listen to your fashion and design advices. I listen to let you style our house and ignore my suggestions. Except for 1 corner. I promise to love you as much as i can and as well as i can. And i promise to be on your side always. 
+
+I love you and i promise to love you until you get tired of me🩷`
   },
   {
     day: 7,
-    title: "",
-    content: ``
+    title: "Valentines day",
+    content: `There’s nothing more to say apart from what ive told you these past 6 days. And a few more things ull get to see today hehe. Its our first valentines day. Definitely not our last. I can’t wait to see you. 
+
+I love you yashi. Sooo much. And i don’t see myself changing how i feel about you for a long time 🩷`
   }
 ];
